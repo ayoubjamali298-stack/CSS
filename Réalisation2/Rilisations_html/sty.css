@@ -4,8 +4,6 @@ body {
     background-color: #f9f9f9;
     margin: 0;
     padding: 0;
-    direction: rtl;
-    text-align: right;
     color: #333;
   }
   
@@ -84,7 +82,7 @@ body {
     font-weight: bold;
   }
 
-  
+
   
   input,
   textarea,
@@ -137,4 +135,5 @@ body {
       font-size: 14px;
     }
   }
+  
   
